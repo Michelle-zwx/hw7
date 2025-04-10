@@ -1,1 +1,5 @@
-change2 on master
+<<<<<<< HEAD
+change 
+=======
+change
+>>>>>>> branch
