@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-change 
-=======
 change
->>>>>>> branch
