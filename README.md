@@ -1,3 +1,4 @@
 change
 add change1
-rebase change(new)
+rebase change
+change need redo
